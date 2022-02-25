@@ -1,0 +1,31 @@
+<!html>
+<html>
+  <head>
+  </head>
+  <body>
+   <div style="border:1px solid black; padding:30px;margin:30px auto;background-color:yellow;width:800px;">
+  <h1 style="color:red;">FRIENDS RESTAURANT</h1>
+  <h2 style= "color:green;">About us</h2>
+  <P style="color:blue;">Beginning as a modest café in 1953, friends restuarant has grown into one of the most-admired restaurant chains in the country today
+  a testament to our committed pursuit of culinary and service excellence. A permanent fixture on Hyderabad’s cultural scene, people consider a trip to the city incomplete without
+  a visit to this iconic place that serves the best Biryani.
+  Our award-winning cuisine is loved for its purity and taste, true in every mouthful to its royal origins. Over the last four years,
+  friends restaurent won the hearts of guests in Bengaluru, Chennai, Vijayawada, Visakhapatnam and Gurugram by opening several successful Outlets.
+  In 1978, Mr Ali Hemati took complete charge of the Restaurant from his Father & Uncle and set about renovating the Restaurant to suit the changing social trends and the evolving food habits of people in India.</p>
+ <p align="middle"><img src="friends.jpg" width="600px" height="300px"></p>
+ <h2>Food</H2>
+ <ul>
+   <li style="color:blue;">non-veg</li>
+   <li style="color:blue;">veg</li>
+ </ul>
+ <h2>Menu card</h2>
+  <p align="middle"><img src="menu-card.jpg" width="600px" height="300px"></p> 
+  
+
+ 
+ 
+ 
+ 
+ 
+ </body>
+ </html>
